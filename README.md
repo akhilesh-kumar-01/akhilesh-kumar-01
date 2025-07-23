@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **akhilesh70526@gmail.com** For Collaboration/Project or An
 - 🔭 **I’m currently working on:** Update Soon
 - 🌱 **I’m currently learning:** React, TypeScript, Android Studio
 - 💬 **Ask me about:** MySql, HTML, CSS, JavaScript, PHP, WordPress, Responsive UI
-- 📫 **How to reach me:** akhilesh70526.com
+- 📫 **How to reach me:** akhilesh70526@gmail.com
 - 👨‍💻 **All of my projects are available at:** https://github.com/akhilesh-kumar-01
 - ⚡ **Fun fact:** Sleep is optional, but take away my tech, AI, or gadgets — and I’ll probably glitch like an unhandled exception 🧠💥📲
 ## 🌐 Socials:
