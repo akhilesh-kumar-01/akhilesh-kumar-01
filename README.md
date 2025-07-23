@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **akhilesh70526@gmail.com** For Collaboration/Project or An
 - 💬 **Ask me about:** MySql, HTML, CSS, JavaScript, PHP, WordPress, Responsive UI
 - 📫 **How to reach me:** akhilesh70526@gmail.com
 - 👨‍💻 **All of my projects are available at:** https://github.com/akhilesh-kumar-01
-- ⚡ **Fun fact:** Sleep is optional, but take away my tech, AI, or gadgets — and I’ll probably glitch like an unhandled exception 🧠💥📲
+- ⚡ **Fun fact:** Sleep is optional, but take away my tech, AI, or gadgets — and I’ll probably glitch like an unhandled exception 😊🧠💥📲
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akiro.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-kumar-6a2281257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilesh70526@gmail.com) 
 
